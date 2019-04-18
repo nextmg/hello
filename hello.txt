@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jhyau laagi sakyo yaa
+=======
+k gar dai ho
+>>>>>>> 7dc60f10648a9305298658569f66a458ef0aee83
